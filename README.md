@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?q=80&w=1000&auto=format&fit=crop" alt="NexusDev Banner" width="100%" style="border-radius: 20px;"/>
-</p>
-
 <h1 align="center">⚡ NEXUS<span style="color: #10b981;">DEV</span></h1>
 
 <p align="center">
